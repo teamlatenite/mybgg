@@ -1,17 +1,17 @@
 {
     "project": {
         "name": "mybgg",
-        "title": ""
+        "title": "Aaron's Board Game Collection"
     },
     "boardgamegeek": {
-        "user_name": "YOUR_BGG_USERNAME",
+        "user_name": "randommana",
         "extra_params": {
             "own": 1
         }
     },
     "algolia": {
-        "app_id": "YOUR_APP_ID",
-        "api_key_search_only": "YOUR_PUBLIC_API_KEY",
-        "index_name": "YOUR_INDEX_NAME"
+        "app_id": "9L6ACBC0SY",
+        "api_key_search_only": "cc52ab2355e36b2da08cad6467487cd7",
+        "index_name": "myBGG"
     }
 }
