@@ -1,17 +1,17 @@
 {
     "project": {
         "name": "mybgg",
-        "title": "Aaron's Board Game Collection"
+        "title": "Team Late Nite's Board Game Collection"
     },
     "boardgamegeek": {
-        "user_name": "randommana",
+        "user_name": "Cloak72",
         "extra_params": {
             "own": 1
         }
     },
     "algolia": {
-        "app_id": "9L6ACBC0SY",
-        "api_key_search_only": "cc52ab2355e36b2da08cad6467487cd7",
-        "index_name": "myBGG"
+        "app_id": "7VFU9C7SX8",
+        "api_key_search_only": "f19b93f05aa94c275fd17cd9b3e2f4e1",
+        "index_name": "teamlatenite-mybgg"
     }
 }
